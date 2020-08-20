@@ -6,7 +6,7 @@ from dateutil.relativedelta import relativedelta
 
 pd.options.mode.chained_assignment = None
 
-sdadasdasdasd
+
 def main():
     # set API
     quandl.ApiConfig.api_key = "ZNk1zPJuz7sGTV2xrnqe"
